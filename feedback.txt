@@ -1,0 +1,9 @@
+K(30%): 100
+I(30%): 90
+C(10%): 95
+A(30%): 90
+
+
+You’re using indexOf(“@“) but this will give -1 when there is no @.  Make sure to check before using to not crash your code when no @ is found.
+You might want to comment a bit less.  Commenting every line can make things hard to read.  If an entire section can be summed up in 1 comment, do that instead.
+Otherwise great job.
